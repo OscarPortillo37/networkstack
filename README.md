@@ -1,8 +1,8 @@
 # networkstack
 
-### Overview
+## Overview
 Our implementation of TCP/IP in C++ from scratch.
 
-### What We Did
+## What We Did
 
-### Credits
+## Credits
